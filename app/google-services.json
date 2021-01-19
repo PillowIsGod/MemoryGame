@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "38935159993",
+    "project_id": "memory-game-a00ce",
+    "storage_bucket": "memory-game-a00ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38935159993:android:36bd7523f0b5af12aba768",
+        "android_client_info": {
+          "package_name": "pillowisgod.com.example.memorygame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38935159993-oehed1k0qrc09tcllftvnek7jm694ps3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGEgCJ3SFZcyKoRZ9iZRew-Z7_4TNyEDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38935159993-oehed1k0qrc09tcllftvnek7jm694ps3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
